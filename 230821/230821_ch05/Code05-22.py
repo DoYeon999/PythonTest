@@ -1,3 +1,5 @@
+## 파일 읽고, 쓰기 예제 복사 ##
+
 inFp, outFp = None, None
 inStr = ""
 

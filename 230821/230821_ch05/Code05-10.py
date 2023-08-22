@@ -1,3 +1,5 @@
+## 버튼 반복문으로 3개 , 오른쪽 기준으로 정렬 ##
+
 from tkinter import *
 window = Tk()
 

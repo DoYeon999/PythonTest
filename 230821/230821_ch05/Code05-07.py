@@ -1,3 +1,5 @@
+## 버튼에 상태 변수로, 이벤트 추가. 체크버튼 유무 ##
+
 from tkinter import *
 from tkinter import messagebox
 # 윈도우창 인스턴스.

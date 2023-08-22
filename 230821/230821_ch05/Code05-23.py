@@ -1,3 +1,5 @@
+## 이진으로 읽고, 쓰기 ##
+
 inFp, outFp = None, None
 inStr = ""
 

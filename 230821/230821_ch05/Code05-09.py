@@ -1,3 +1,5 @@
+## 버튼의 위치 및 정렬 ##
+
 from tkinter import *
 window = Tk()
 

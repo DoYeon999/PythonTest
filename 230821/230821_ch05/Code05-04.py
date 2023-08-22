@@ -1,3 +1,5 @@
+## 이미지 라벨 붙이기 ##
+
 from tkinter import *
 window = Tk()
 # PhotoImage 사진 이미지를 불러오는 역할. gif 형식으로 불러옴

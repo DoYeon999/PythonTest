@@ -1,3 +1,5 @@
+## 물어보는 다이얼로그 창 ##
+
 from tkinter import *
 from tkinter.simpledialog import *
 

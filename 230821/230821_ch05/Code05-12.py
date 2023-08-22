@@ -1,3 +1,5 @@
+## 메뉴에 하위 메뉴 붙이기 이벤트 핸들러 추가 ##
+
 from tkinter import *
 from tkinter import messagebox
 

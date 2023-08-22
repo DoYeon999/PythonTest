@@ -1,3 +1,5 @@
+## 버튼, 종료 이벤트 추가 ##
+
 from tkinter import *
 window = Tk()
 

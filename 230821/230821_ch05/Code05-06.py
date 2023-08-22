@@ -1,3 +1,5 @@
+## 버튼, 다이얼로그 메시지 출력, 이벤트 추가 ##
+
 from tkinter import *
 from tkinter import messagebox
 

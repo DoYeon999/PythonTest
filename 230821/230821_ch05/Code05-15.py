@@ -1,3 +1,5 @@
+## 선택한 사진 파일명 변경해서 저장 ##
+
 from tkinter import *
 from tkinter.filedialog import *
 

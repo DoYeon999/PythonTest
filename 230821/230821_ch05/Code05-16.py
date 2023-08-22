@@ -1,3 +1,5 @@
+## 선택한 사진 보이는 창 ##
+
 from tkinter import *
 from tkinter.filedialog import *
 

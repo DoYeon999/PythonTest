@@ -1,3 +1,5 @@
+## 라벨 붙이기 ##
+
 from tkinter import *
 
 # 윈도우 창

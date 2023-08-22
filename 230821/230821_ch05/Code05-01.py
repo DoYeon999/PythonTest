@@ -1,3 +1,5 @@
+## 윈도 창 연습 ##
+
 from tkinter import *
 
 window = Tk()

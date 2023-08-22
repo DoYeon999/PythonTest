@@ -1,3 +1,5 @@
+## 파일 선택한 이름 라벨에 출력 ##
+
 from tkinter import *
 from tkinter.filedialog import *
 

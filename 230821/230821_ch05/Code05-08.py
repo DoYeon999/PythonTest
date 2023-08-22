@@ -1,3 +1,5 @@
+## 버튼 값으로 분기 해서, 라벨 텍스트 변경 ##
+
 from tkinter import *
 window = Tk()
 

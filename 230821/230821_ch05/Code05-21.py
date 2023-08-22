@@ -1,3 +1,5 @@
+## 파일 쓰기 예제 ##
+
 outFp = None
 outStr = ""
 
